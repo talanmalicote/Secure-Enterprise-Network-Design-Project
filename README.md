@@ -156,7 +156,6 @@ team15-network/
 ├── team15.pkt
 ├── README.md
 ├── topology.png
-└── configs.txt (optional)
 ```
 
 ## Objectives
